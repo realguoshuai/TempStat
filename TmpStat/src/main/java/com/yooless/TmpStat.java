@@ -1,4 +1,4 @@
-package com.zhiyou100;
+﻿package com.yooless;
 
 import java.io.IOException;
 import org.apache.hadoop.conf.Configuration;
